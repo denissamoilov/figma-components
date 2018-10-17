@@ -18,31 +18,35 @@ class CColor28D10 extends PureComponent {
   render() {
     return (
       <div>
-        <div style={{}} className="outerDiv">
+        <div style={{}} className="outerDiv centerer">
           <div
             id="38:0"
-            style={{"marginLeft":0,"width":200,"minWidth":200,"height":null,"marginTop":0,"marginBottom":313,"minHeight":100,"backgroundColor":"rgba(80, 102, 218, 1)","borderRadius":"20px 20px 20px 20px"}}
+            style={{"width":"100%","marginLeft":"0%","height":"100%","top":"0%","backgroundColor":"rgba(0, 0, 0, 1)","opacity":0.699999988079071}}
             className="innerDiv"
           >
             <div>
             </div>
           </div>
         </div>
-        <div style={{"justifyContent":"center"}} className="outerDiv maxer">
+        <div style={{"zIndex":1,"justifyContent":"center","alignItems":"center"}} className="outerDiv centerer">
           <div
-            id="28:10"
-            style={{"backgroundColor":null,"overflow":"hidden","width":"100%","pointerEvents":"none"}}
+            id="42:20"
+            style={{"width":333,"marginLeft":0,"height":44,"marginTop":-35,"color":"rgba(255, 255, 255, 1)","fontSize":18,"fontWeight":500,"fontFamily":"Gotham","textAlign":"CENTER","fontStyle":"normal","lineHeight":"125%","letterSpacing":"0px"}}
             className="innerDiv"
           >
-            <div style={{"zIndex":1,"justifyContent":"flex-end"}} className="outerDiv">
-              <div
-                id="38:1"
-                style={{"marginRight":0,"width":100,"minWidth":100,"height":null,"marginTop":313,"marginBottom":0,"minHeight":100,"backgroundColor":"rgba(83, 218, 80, 1)","borderRadius":"20px 20px 20px 20px"}}
-                className="innerDiv"
-              >
-                <div>
-                </div>
-              </div>
+            <div>
+              <span style={{}} key="end">Parturient Commodo Lorem sadask ndajksn djsankka</span>
+            </div>
+          </div>
+        </div>
+        <div style={{"zIndex":2,"justifyContent":"center","alignItems":"center"}} className="outerDiv centerer">
+          <div
+            id="42:21"
+            style={{"width":333,"marginLeft":0,"height":50,"marginTop":99,"color":"rgba(255, 255, 255, 1)","fontSize":14,"fontWeight":400,"fontFamily":"Gotham","textAlign":"CENTER","fontStyle":"normal","lineHeight":"125%","letterSpacing":"0px"}}
+            className="innerDiv"
+          >
+            <div>
+              <span style={{}} key="end">Parturient Commodo Lorem sadask ndajksn djsankka</span>
             </div>
           </div>
         </div>

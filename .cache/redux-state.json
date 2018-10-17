@@ -522,12 +522,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-17T11:21:50.468Z",
+      "buildTime": "2018-10-17T12:20:22.476Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dbe23c29e4e6e933cec3ff6ff8114c83",
+        "contentDigest": "1a1e482f4f048df2ec591690c4cfa8a8",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -537,7 +537,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "118e8112b7c0c67df535e2eecc9bc269",
+        "contentDigest": "66ef19546b1acef69565a29bc5c3e2b8",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -549,7 +549,7 @@
       "size": 238,
       "prettySize": "238 B",
       "modifiedTime": "2018-10-17T11:16:48.000Z",
-      "accessTime": "2018-10-17T11:21:52.000Z",
+      "accessTime": "2018-10-17T12:20:24.000Z",
       "changeTime": "2018-10-17T11:16:48.000Z",
       "birthTime": "2018-10-15T12:11:32.000Z",
       "root": "/",
@@ -567,11 +567,11 @@
       "blksize": 4096,
       "ino": 67640538,
       "blocks": 0,
-      "atimeMs": 1539775312000,
+      "atimeMs": 1539778824000,
       "mtimeMs": 1539775008000,
       "ctimeMs": 1539775008000,
       "birthtimeMs": 1539605492000,
-      "atime": "2018-10-17T11:21:52.000Z",
+      "atime": "2018-10-17T12:20:24.000Z",
       "mtime": "2018-10-17T11:16:48.000Z",
       "ctime": "2018-10-17T11:16:48.000Z",
       "birthtime": "2018-10-15T12:11:32.000Z"
@@ -581,7 +581,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "040bb7bdacae75ea96ad2db1db387a45",
+        "contentDigest": "4355c4c9d82b5952ab99b43feb48bc2d",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -593,7 +593,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-10-15T12:11:32.000Z",
-      "accessTime": "2018-10-17T11:21:52.000Z",
+      "accessTime": "2018-10-17T12:20:24.000Z",
       "changeTime": "2018-10-15T12:11:32.000Z",
       "birthTime": "2018-10-15T12:11:32.000Z",
       "root": "/",
@@ -611,11 +611,11 @@
       "blksize": 4096,
       "ino": 67640539,
       "blocks": 0,
-      "atimeMs": 1539775312000,
+      "atimeMs": 1539778824000,
       "mtimeMs": 1539605492000,
       "ctimeMs": 1539605492000,
       "birthtimeMs": 1539605492000,
-      "atime": "2018-10-17T11:21:52.000Z",
+      "atime": "2018-10-17T12:20:24.000Z",
       "mtime": "2018-10-15T12:11:32.000Z",
       "ctime": "2018-10-15T12:11:32.000Z",
       "birthtime": "2018-10-15T12:11:32.000Z"
@@ -671,8 +671,8 @@
       "type": "DOCUMENT",
       "children": [],
       "figmaId": "bDTjyvk46zudfjITwwyAXFMZ",
-      "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/01826fdb-0a07-41ec-8e72-e80cd97b346d?Expires=1540771200&Signature=On1zDvHHGIJeM5UyZepUp1uVTwqqr4si88TFAnAtZt84gbEra~K5MVGskzrjUgd~LXwsE4ykfdKH~I3lMVyAY7LxG4xY19fgxaVzeaKDO-j7Bx5GceYwD-hOuwqDPMDkFvjRFMFT3Fb2M3ViBigQ9EgMse9YwdVUrMIwnpmSs-CTyhsaM9GC3~8IpwTwVdIca14WmhSnBhjQT98exZNG3n9~zoLgZDR~CMrSIrasnLKUEWHLyNLf3T-Nje80RwikGzvF6bY0ThVeyZiZNOHb-rAl9N2E1V7OFAWCAb3TwH9Y5bCJO5lVX~z6WP62icPUt7eqvLIVBYLFfQ-HWVh5uQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "lastModified": "2018-10-17T11:21:47.138636Z",
+      "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/680fc039-cc02-4b94-b79c-aacc56fbb796?Expires=1540771200&Signature=cBM2y1Nv-34az7tMTDkWPn6wccKTBcCMEySo4aadIoIDooZQszgFRB45drPNjgXi05Yrhl~NJy8hGz9zWuOLAtU3S~t44dPYVwneVuJ64fccR53IK1s2Qs~0V9gFmBKOAAtdJw25q9EfydL~bNONXWVtIUgEN-liR3tHxNCqUiGGmERm9KcT4CzV6d9H2EN8FZUWPvAgZB9~PtP831kd8UslxscgEbRrpdt3KQwnQ0kkXWLoGX9PXYMfD91SIrCl~mtEtMh5b7R0eWtEaCAF1PpCWoZVFQJ1PdCckONeeYgSn6f~ReN9eyrsozfKsUBLDRKJRFB9PUGGHfLUOYf86A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "lastModified": "2018-10-17T12:20:16.996988Z",
       "parent": null,
       "pages": [
         {
@@ -688,89 +688,162 @@
               "children": [
                 {
                   "id": "38:0",
-                  "name": "Swatch",
+                  "name": "{overlay}",
                   "type": "RECTANGLE",
                   "blendMode": "PASS_THROUGH",
                   "absoluteBoundingBox": {
                     "x": 0,
                     "y": 0,
-                    "width": 200,
-                    "height": 100
+                    "width": 391,
+                    "height": 385
+                  },
+                  "constraints": {
+                    "vertical": "SCALE",
+                    "horizontal": "SCALE"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "opacity": 0.699999988079071,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "INSIDE",
+                  "effects": []
+                },
+                {
+                  "id": "42:22",
+                  "name": "{description}",
+                  "type": "GROUP",
+                  "blendMode": "PASS_THROUGH",
+                  "children": [
+                    {
+                      "id": "42:20",
+                      "name": "Parturient Commodo Lorem sadask ndajksn djsankka",
+                      "type": "TEXT",
+                      "blendMode": "PASS_THROUGH",
+                      "absoluteBoundingBox": {
+                        "x": 29,
+                        "y": 153,
+                        "width": 333,
+                        "height": 44
+                      },
+                      "constraints": {
+                        "vertical": "CENTER",
+                        "horizontal": "CENTER"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "strokeAlign": "OUTSIDE",
+                      "effects": [],
+                      "characters": "Parturient Commodo Lorem sadask ndajksn djsankka",
+                      "style": {
+                        "fontFamily": "Gotham",
+                        "fontPostScriptName": "Gotham-Medium",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "textAlignHorizontal": "CENTER",
+                        "textAlignVertical": "TOP",
+                        "letterSpacing": 0,
+                        "lineHeightPx": 21.09375,
+                        "lineHeightPercent": 100
+                      },
+                      "characterStyleOverrides": [],
+                      "styleOverrideTable": {}
+                    },
+                    {
+                      "id": "42:21",
+                      "name": "Parturient Commodo Lorem sadask ndajksn djsankka",
+                      "type": "TEXT",
+                      "blendMode": "PASS_THROUGH",
+                      "absoluteBoundingBox": {
+                        "x": 29,
+                        "y": 217,
+                        "width": 333,
+                        "height": 50
+                      },
+                      "constraints": {
+                        "vertical": "CENTER",
+                        "horizontal": "CENTER"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "strokeAlign": "OUTSIDE",
+                      "effects": [],
+                      "characters": "Parturient Commodo Lorem sadask ndajksn djsankka",
+                      "style": {
+                        "fontFamily": "Gotham",
+                        "fontPostScriptName": "Gotham-Book",
+                        "fontWeight": 400,
+                        "fontSize": 14,
+                        "textAlignHorizontal": "CENTER",
+                        "textAlignVertical": "TOP",
+                        "letterSpacing": 0,
+                        "lineHeightPx": 16.40625,
+                        "lineHeightPercent": 100
+                      },
+                      "characterStyleOverrides": [],
+                      "styleOverrideTable": {}
+                    }
+                  ],
+                  "absoluteBoundingBox": {
+                    "x": 29,
+                    "y": 153,
+                    "width": 333,
+                    "height": 114
                   },
                   "constraints": {
                     "vertical": "TOP",
                     "horizontal": "LEFT"
                   },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0.3137254901960784,
-                        "g": 0.4,
-                        "b": 0.8549019607843137,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "INSIDE",
-                  "effects": [],
-                  "cornerRadius": 20,
-                  "rectangleCornerRadii": [
-                    20,
-                    20,
-                    20,
-                    20
-                  ]
-                },
-                {
-                  "id": "38:1",
-                  "name": "Swatch",
-                  "type": "RECTANGLE",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 329,
-                    "y": 313,
-                    "width": 100,
-                    "height": 100
+                  "clipsContent": false,
+                  "background": [],
+                  "backgroundColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0
                   },
-                  "preserveRatio": true,
-                  "constraints": {
-                    "vertical": "BOTTOM",
-                    "horizontal": "RIGHT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0.3254901960784314,
-                        "g": 0.8549019607843137,
-                        "b": 0.3137254901960784,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "INSIDE",
-                  "effects": [],
-                  "cornerRadius": 20,
-                  "rectangleCornerRadii": [
-                    20,
-                    20,
-                    20,
-                    20
-                  ]
+                  "effects": []
                 }
               ],
               "absoluteBoundingBox": {
                 "x": 0,
                 "y": 0,
-                "width": 429,
-                "height": 413
+                "width": 391,
+                "height": 385
               },
               "constraints": {
                 "vertical": "TOP",
@@ -902,7 +975,7 @@
       ],
       "internal": {
         "type": "FigmaDOCUMENT",
-        "contentDigest": "ef44caf47239cf7f0bc084635a02c4a3",
+        "contentDigest": "93c378a0b0c13d7e57fed3eb1ec411f6",
         "owner": "gatsby-source-figma"
       },
       "document___NODE": "bDTjyvk46zudfjITwwyAXFMZ"
@@ -912,7 +985,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1fc9c2d76ab4f30e834f8a5a29375fc9",
+        "contentDigest": "505df533dd4d733a7ea9b3a0ae47b37f",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -921,11 +994,11 @@
       "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/components",
       "relativePath": "components",
       "extension": "",
-      "size": 102,
-      "prettySize": "102 B",
-      "modifiedTime": "2018-10-17T11:11:41.000Z",
-      "accessTime": "2018-10-17T11:21:52.000Z",
-      "changeTime": "2018-10-17T11:11:41.000Z",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-10-17T12:09:53.000Z",
+      "accessTime": "2018-10-17T12:20:24.000Z",
+      "changeTime": "2018-10-17T12:09:53.000Z",
       "birthTime": "2018-10-17T11:11:35.000Z",
       "root": "/",
       "dir": "/Users/denissamoilov/Sites/figma-components/src",
@@ -935,20 +1008,20 @@
       "relativeDirectory": "",
       "dev": 16777224,
       "mode": 16877,
-      "nlink": 3,
+      "nlink": 4,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 67752470,
       "blocks": 0,
-      "atimeMs": 1539775312000,
-      "mtimeMs": 1539774701000,
-      "ctimeMs": 1539774701000,
+      "atimeMs": 1539778824000,
+      "mtimeMs": 1539778193000,
+      "ctimeMs": 1539778193000,
       "birthtimeMs": 1539774695000,
-      "atime": "2018-10-17T11:21:52.000Z",
-      "mtime": "2018-10-17T11:11:41.000Z",
-      "ctime": "2018-10-17T11:11:41.000Z",
+      "atime": "2018-10-17T12:20:24.000Z",
+      "mtime": "2018-10-17T12:09:53.000Z",
+      "ctime": "2018-10-17T12:09:53.000Z",
       "birthtime": "2018-10-17T11:11:35.000Z"
     },
     "2155e8e7-b52f-5aed-b95d-8b0025df471c": {
@@ -956,7 +1029,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7ae41c8c8db0cd1b6e610a9181408fa0",
+        "contentDigest": "99c6bf13572678a0c13089034038c16b",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/figmaComponents.js\"",
@@ -966,11 +1039,11 @@
       "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/figmaComponents.js",
       "relativePath": "figmaComponents.js",
       "extension": "js",
-      "size": 1696,
-      "prettySize": "1.7 kB",
-      "modifiedTime": "2018-10-17T11:21:47.000Z",
-      "accessTime": "2018-10-17T11:21:48.000Z",
-      "changeTime": "2018-10-17T11:21:47.000Z",
+      "size": 2087,
+      "prettySize": "2.09 kB",
+      "modifiedTime": "2018-10-17T12:20:17.000Z",
+      "accessTime": "2018-10-17T12:20:18.000Z",
+      "changeTime": "2018-10-17T12:20:17.000Z",
       "birthTime": "2018-10-17T11:11:16.000Z",
       "root": "/",
       "dir": "/Users/denissamoilov/Sites/figma-components/src",
@@ -987,13 +1060,13 @@
       "blksize": 4096,
       "ino": 67752446,
       "blocks": 8,
-      "atimeMs": 1539775308000,
-      "mtimeMs": 1539775307000,
-      "ctimeMs": 1539775307000,
+      "atimeMs": 1539778818000,
+      "mtimeMs": 1539778817000,
+      "ctimeMs": 1539778817000,
       "birthtimeMs": 1539774676000,
-      "atime": "2018-10-17T11:21:48.000Z",
-      "mtime": "2018-10-17T11:21:47.000Z",
-      "ctime": "2018-10-17T11:21:47.000Z",
+      "atime": "2018-10-17T12:20:18.000Z",
+      "mtime": "2018-10-17T12:20:17.000Z",
+      "ctime": "2018-10-17T12:20:17.000Z",
       "birthtime": "2018-10-17T11:11:16.000Z"
     },
     "4894d083-3128-56e8-b6ac-2054822bb01e": {
@@ -1085,6 +1158,51 @@
       "mtime": "2018-10-16T13:18:06.000Z",
       "ctime": "2018-10-17T11:16:48.000Z",
       "birthtime": "2018-10-16T13:18:06.000Z"
+    },
+    "d9954f76-baf1-58e7-97a7-92d92d789347": {
+      "id": "d9954f76-baf1-58e7-97a7-92d92d789347",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "611aa2b03bdcb4560bb431c1b5535b1a",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/CPromotile.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/components/CPromotile.js",
+      "relativePath": "components/CPromotile.js",
+      "extension": "js",
+      "size": 305,
+      "prettySize": "305 B",
+      "modifiedTime": "2018-10-17T12:09:53.000Z",
+      "accessTime": "2018-10-17T12:12:57.000Z",
+      "changeTime": "2018-10-17T12:09:53.000Z",
+      "birthTime": "2018-10-17T12:09:53.000Z",
+      "root": "/",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src/components",
+      "base": "CPromotile.js",
+      "ext": ".js",
+      "name": "CPromotile",
+      "relativeDirectory": "components",
+      "dev": 16777224,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 67755073,
+      "blocks": 8,
+      "atimeMs": 1539778377000,
+      "mtimeMs": 1539778193000,
+      "ctimeMs": 1539778193000,
+      "birthtimeMs": 1539778193000,
+      "atime": "2018-10-17T12:12:57.000Z",
+      "mtime": "2018-10-17T12:09:53.000Z",
+      "ctime": "2018-10-17T12:09:53.000Z",
+      "birthtime": "2018-10-17T12:09:53.000Z"
     },
     "SitePage /": {
       "jsonName": "index",
