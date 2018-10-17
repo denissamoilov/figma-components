@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "gatsby": "^2.0.0",
+    "gatsby-source-figma": "^1.0.0",
+    "gatsby-source-filesystem": "^2.0.3",
     "react": "^16.5.1",
     "react-dom": "^16.5.1"
   }

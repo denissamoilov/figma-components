@@ -1,3 +1,11 @@
 import React from "react"
 
-export default () => <div>Hello world!!</div>
+import '../index.css';
+import { MasterColor } from '../figmaComponents';
+
+
+export default () => {
+    return (
+        <MasterColor />
+    )
+}
