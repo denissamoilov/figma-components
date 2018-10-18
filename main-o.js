@@ -95,8 +95,11 @@ async function main() {
 	const doc = data.document;
 	const canvas = doc.children[0];
 	let html = '';
+
+	console.log('STYLES');
+	console.log(data.styles);
     
-	for (let i=0; i<canvas.children.length; i++) {
+	for (let i=0; i < canvas.children.length; i++) {
         const child = canvas.children[i]
 		if (child.name.charAt(0) === '#'  && child.visible !== false) {
             const child = canvas.children[i];
@@ -135,8 +138,11 @@ async function main() {
     let nextSection = '';
     
 
-	for (let i=0; i<canvas.children.length; i++) {
+	for (let i=0; i < canvas.children.length; i++) {
 		const child = canvas.children[i]
+
+		console.log('child: ', child);
+
 		if (child.name.charAt(0) === '#' && child.visible !== false) {
 			const child = canvas.children[i];
 			figma.createComponent(child, images, componentMap);
@@ -166,16 +172,17 @@ async function main() {
 	contents += `export function getComponentFromId(id) {\n`;
 
 
-
+	// CREATE COMPONENT CLASS
 	for (const key in componentMap) {
 		contents += `  if (id === "${key}") return ${componentMap[key].instance};\n`;
 		nextSection += componentMap[key].doc + "\n";
 	}
 
 	contents += "  return null;\n}\n\n";
+
 	contents += nextSection;
 
-    const path = "./src/figmaComponents.js";
+	const path = "./src/figmaComponents.js";
     
 	fs.writeFile(path, contents, function(err) {
 		if (err) console.log(err);

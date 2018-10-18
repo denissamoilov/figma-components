@@ -522,12 +522,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-17T12:20:22.476Z",
+      "buildTime": "2018-10-18T11:09:55.760Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1a1e482f4f048df2ec591690c4cfa8a8",
+        "contentDigest": "1ba3ad9373a59a46a7b91df5220a6018",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -537,7 +537,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "66ef19546b1acef69565a29bc5c3e2b8",
+        "contentDigest": "2897c18bc2765c2bb1ae397a13b9989a",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -549,7 +549,7 @@
       "size": 238,
       "prettySize": "238 B",
       "modifiedTime": "2018-10-17T11:16:48.000Z",
-      "accessTime": "2018-10-17T12:20:24.000Z",
+      "accessTime": "2018-10-18T11:09:58.000Z",
       "changeTime": "2018-10-17T11:16:48.000Z",
       "birthTime": "2018-10-15T12:11:32.000Z",
       "root": "/",
@@ -567,11 +567,11 @@
       "blksize": 4096,
       "ino": 67640538,
       "blocks": 0,
-      "atimeMs": 1539778824000,
+      "atimeMs": 1539860998000,
       "mtimeMs": 1539775008000,
       "ctimeMs": 1539775008000,
       "birthtimeMs": 1539605492000,
-      "atime": "2018-10-17T12:20:24.000Z",
+      "atime": "2018-10-18T11:09:58.000Z",
       "mtime": "2018-10-17T11:16:48.000Z",
       "ctime": "2018-10-17T11:16:48.000Z",
       "birthtime": "2018-10-15T12:11:32.000Z"
@@ -581,7 +581,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4355c4c9d82b5952ab99b43feb48bc2d",
+        "contentDigest": "8993db443d864142705885d3a29e70e3",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -593,7 +593,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-10-15T12:11:32.000Z",
-      "accessTime": "2018-10-17T12:20:24.000Z",
+      "accessTime": "2018-10-18T11:09:58.000Z",
       "changeTime": "2018-10-15T12:11:32.000Z",
       "birthTime": "2018-10-15T12:11:32.000Z",
       "root": "/",
@@ -611,11 +611,11 @@
       "blksize": 4096,
       "ino": 67640539,
       "blocks": 0,
-      "atimeMs": 1539778824000,
+      "atimeMs": 1539860998000,
       "mtimeMs": 1539605492000,
       "ctimeMs": 1539605492000,
       "birthtimeMs": 1539605492000,
-      "atime": "2018-10-17T12:20:24.000Z",
+      "atime": "2018-10-18T11:09:58.000Z",
       "mtime": "2018-10-15T12:11:32.000Z",
       "ctime": "2018-10-15T12:11:32.000Z",
       "birthtime": "2018-10-15T12:11:32.000Z"
@@ -671,8 +671,8 @@
       "type": "DOCUMENT",
       "children": [],
       "figmaId": "bDTjyvk46zudfjITwwyAXFMZ",
-      "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/680fc039-cc02-4b94-b79c-aacc56fbb796?Expires=1540771200&Signature=cBM2y1Nv-34az7tMTDkWPn6wccKTBcCMEySo4aadIoIDooZQszgFRB45drPNjgXi05Yrhl~NJy8hGz9zWuOLAtU3S~t44dPYVwneVuJ64fccR53IK1s2Qs~0V9gFmBKOAAtdJw25q9EfydL~bNONXWVtIUgEN-liR3tHxNCqUiGGmERm9KcT4CzV6d9H2EN8FZUWPvAgZB9~PtP831kd8UslxscgEbRrpdt3KQwnQ0kkXWLoGX9PXYMfD91SIrCl~mtEtMh5b7R0eWtEaCAF1PpCWoZVFQJ1PdCckONeeYgSn6f~ReN9eyrsozfKsUBLDRKJRFB9PUGGHfLUOYf86A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "lastModified": "2018-10-17T12:20:16.996988Z",
+      "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/9c4caf95-29c5-4a5b-a4e8-0c22d7dcfb46?Expires=1540771200&Signature=L8WQZm6BToPmokDAeKsPKDGJtL8izkszGx7gn8WAIv8yHxd49PFien0~YNm0UZnQS~62lxrihvK1pD1VFUaNI33yiFIbbdYkwCySzlFpqPSU0GDk-Guf6v46gHgP4hHP6ceb92SFOZyZBA8NeArUu7xRwfu0OxXmWaV3kNF7wtWai8nA5~VivKHblbrB3UVlUkAUniw0EZiH8CvRwl8jLT2NransvA9PpsVbnIAts4HzYJsaZpAAc3kGyFJvoHO7MSG-0x1Rl9szGYsrlSjW9jkTDvrTIogrcssS8gBNvwf6tsKSIPxJ7ZWtp7UhdLVheaMQYnk8I57~NTfuIu6k9g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "lastModified": "2018-10-18T11:07:04.499216Z",
       "parent": null,
       "pages": [
         {
@@ -686,6 +686,34 @@
               "type": "FRAME",
               "blendMode": "PASS_THROUGH",
               "children": [
+                {
+                  "id": "54:0",
+                  "name": "{image}",
+                  "type": "RECTANGLE",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 391,
+                    "height": 385
+                  },
+                  "constraints": {
+                    "vertical": "SCALE",
+                    "horizontal": "SCALE"
+                  },
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "blendMode": "NORMAL",
+                      "scaleMode": "FILL",
+                      "imageRef": "22791083fa0ba2465f67dddeac2e8135501835b0"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "INSIDE",
+                  "effects": []
+                },
                 {
                   "id": "38:0",
                   "name": "{overlay}",
@@ -720,123 +748,102 @@
                   "effects": []
                 },
                 {
-                  "id": "42:22",
-                  "name": "{description}",
-                  "type": "GROUP",
+                  "id": "42:20",
+                  "name": "{h1}",
+                  "type": "TEXT",
                   "blendMode": "PASS_THROUGH",
-                  "children": [
-                    {
-                      "id": "42:20",
-                      "name": "Parturient Commodo Lorem sadask ndajksn djsankka",
-                      "type": "TEXT",
-                      "blendMode": "PASS_THROUGH",
-                      "absoluteBoundingBox": {
-                        "x": 29,
-                        "y": 153,
-                        "width": 333,
-                        "height": 44
-                      },
-                      "constraints": {
-                        "vertical": "CENTER",
-                        "horizontal": "CENTER"
-                      },
-                      "fills": [
-                        {
-                          "type": "SOLID",
-                          "blendMode": "NORMAL",
-                          "color": {
-                            "r": 1,
-                            "g": 1,
-                            "b": 1,
-                            "a": 1
-                          }
-                        }
-                      ],
-                      "strokes": [],
-                      "strokeWeight": 1,
-                      "strokeAlign": "OUTSIDE",
-                      "effects": [],
-                      "characters": "Parturient Commodo Lorem sadask ndajksn djsankka",
-                      "style": {
-                        "fontFamily": "Gotham",
-                        "fontPostScriptName": "Gotham-Medium",
-                        "fontWeight": 500,
-                        "fontSize": 18,
-                        "textAlignHorizontal": "CENTER",
-                        "textAlignVertical": "TOP",
-                        "letterSpacing": 0,
-                        "lineHeightPx": 21.09375,
-                        "lineHeightPercent": 100
-                      },
-                      "characterStyleOverrides": [],
-                      "styleOverrideTable": {}
-                    },
-                    {
-                      "id": "42:21",
-                      "name": "Parturient Commodo Lorem sadask ndajksn djsankka",
-                      "type": "TEXT",
-                      "blendMode": "PASS_THROUGH",
-                      "absoluteBoundingBox": {
-                        "x": 29,
-                        "y": 217,
-                        "width": 333,
-                        "height": 50
-                      },
-                      "constraints": {
-                        "vertical": "CENTER",
-                        "horizontal": "CENTER"
-                      },
-                      "fills": [
-                        {
-                          "type": "SOLID",
-                          "blendMode": "NORMAL",
-                          "color": {
-                            "r": 1,
-                            "g": 1,
-                            "b": 1,
-                            "a": 1
-                          }
-                        }
-                      ],
-                      "strokes": [],
-                      "strokeWeight": 1,
-                      "strokeAlign": "OUTSIDE",
-                      "effects": [],
-                      "characters": "Parturient Commodo Lorem sadask ndajksn djsankka",
-                      "style": {
-                        "fontFamily": "Gotham",
-                        "fontPostScriptName": "Gotham-Book",
-                        "fontWeight": 400,
-                        "fontSize": 14,
-                        "textAlignHorizontal": "CENTER",
-                        "textAlignVertical": "TOP",
-                        "letterSpacing": 0,
-                        "lineHeightPx": 16.40625,
-                        "lineHeightPercent": 100
-                      },
-                      "characterStyleOverrides": [],
-                      "styleOverrideTable": {}
-                    }
-                  ],
                   "absoluteBoundingBox": {
                     "x": 29,
-                    "y": 153,
+                    "y": 120,
                     "width": 333,
-                    "height": 114
+                    "height": 85
                   },
                   "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
+                    "vertical": "CENTER",
+                    "horizontal": "CENTER"
                   },
-                  "clipsContent": false,
-                  "background": [],
-                  "backgroundColor": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0,
-                    "a": 0
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Pellentesque Ultricies",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Bold",
+                    "fontWeight": 700,
+                    "fontSize": 36,
+                    "textAlignHorizontal": "CENTER",
+                    "textAlignVertical": "TOP",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 42.1875,
+                    "lineHeightPercent": 100
                   },
-                  "effects": []
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:15"
+                  }
+                },
+                {
+                  "id": "42:21",
+                  "name": "{p}",
+                  "type": "TEXT",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 29,
+                    "y": 215,
+                    "width": 333,
+                    "height": 50
+                  },
+                  "constraints": {
+                    "vertical": "CENTER",
+                    "horizontal": "CENTER"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Parturient Commodo Lorem sadask ndajksn djsankka",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Regular",
+                    "fontWeight": 400,
+                    "fontSize": 14,
+                    "textAlignHorizontal": "CENTER",
+                    "textAlignVertical": "TOP",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 16.40625,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:21"
+                  }
                 }
               ],
               "absoluteBoundingBox": {
@@ -885,68 +892,321 @@
           "type": "CANVAS",
           "children": [
             {
-              "id": "28:7",
-              "name": "Swatch_1",
-              "type": "COMPONENT",
+              "id": "50:0",
+              "name": "#TextStyles",
+              "type": "FRAME",
               "blendMode": "PASS_THROUGH",
               "children": [
                 {
-                  "id": "28:6",
-                  "name": "#Swatch_1",
-                  "type": "RECTANGLE",
+                  "id": "50:2",
+                  "name": "Heading 2",
+                  "type": "TEXT",
                   "blendMode": "PASS_THROUGH",
                   "absoluteBoundingBox": {
-                    "x": -36,
-                    "y": -191,
-                    "width": 100,
-                    "height": 100
+                    "x": 30,
+                    "y": 70,
+                    "width": 107,
+                    "height": 29
                   },
-                  "preserveRatio": true,
                   "constraints": {
-                    "vertical": "SCALE",
-                    "horizontal": "SCALE"
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
                   },
                   "fills": [
                     {
                       "type": "SOLID",
                       "blendMode": "NORMAL",
                       "color": {
-                        "r": 0.3137254901960784,
-                        "g": 0.4,
-                        "b": 0.8549019607843137,
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
                         "a": 1
                       }
                     }
                   ],
                   "strokes": [],
                   "strokeWeight": 1,
-                  "strokeAlign": "INSIDE",
+                  "strokeAlign": "OUTSIDE",
                   "effects": [],
-                  "cornerRadius": 20,
-                  "rectangleCornerRadii": [
-                    20,
-                    20,
-                    20,
-                    20
-                  ]
+                  "characters": "Heading 2",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Light",
+                    "fontWeight": 300,
+                    "fontSize": 24,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "CENTER",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 28.125,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:16"
+                  }
+                },
+                {
+                  "id": "50:3",
+                  "name": "Heading 3",
+                  "type": "TEXT",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 30,
+                    "y": 109,
+                    "width": 101,
+                    "height": 26
+                  },
+                  "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Heading 3",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Medium",
+                    "fontWeight": 500,
+                    "fontSize": 22,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "CENTER",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 25.78125,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:17"
+                  }
+                },
+                {
+                  "id": "50:4",
+                  "name": "Heading 4",
+                  "type": "TEXT",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 30,
+                    "y": 145,
+                    "width": 83,
+                    "height": 22
+                  },
+                  "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Heading 4",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Bold",
+                    "fontWeight": 700,
+                    "fontSize": 18,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "CENTER",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 21.09375,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:18"
+                  }
+                },
+                {
+                  "id": "50:5",
+                  "name": "Heading 5",
+                  "type": "TEXT",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 30,
+                    "y": 177,
+                    "width": 82,
+                    "height": 22
+                  },
+                  "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Heading 5",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Regular",
+                    "fontWeight": 400,
+                    "fontSize": 18,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "CENTER",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 21.09375,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:19"
+                  }
+                },
+                {
+                  "id": "50:6",
+                  "name": "Heading 6",
+                  "type": "TEXT",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 30,
+                    "y": 209,
+                    "width": 74,
+                    "height": 19
+                  },
+                  "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Heading 6",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Bold",
+                    "fontWeight": 700,
+                    "fontSize": 16,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "CENTER",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 18.75,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:20"
+                  }
+                },
+                {
+                  "id": "50:7",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "blendMode": "PASS_THROUGH",
+                  "absoluteBoundingBox": {
+                    "x": 30,
+                    "y": 238,
+                    "width": 64,
+                    "height": 17
+                  },
+                  "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "strokeAlign": "OUTSIDE",
+                  "effects": [],
+                  "characters": "Paragraph",
+                  "style": {
+                    "fontFamily": "Roboto",
+                    "fontPostScriptName": "Roboto-Regular",
+                    "fontWeight": 400,
+                    "fontSize": 14,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "CENTER",
+                    "letterSpacing": 0,
+                    "lineHeightPx": 16.40625,
+                    "lineHeightPercent": 100
+                  },
+                  "characterStyleOverrides": [],
+                  "styleOverrideTable": {},
+                  "styles": {
+                    "text": "50:21"
+                  }
                 }
               ],
               "absoluteBoundingBox": {
-                "x": -36,
-                "y": -191,
-                "width": 100,
-                "height": 100
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 300
               },
               "constraints": {
                 "vertical": "TOP",
                 "horizontal": "LEFT"
               },
-              "clipsContent": false,
+              "clipsContent": true,
               "background": [
                 {
                   "type": "SOLID",
                   "blendMode": "NORMAL",
-                  "visible": false,
                   "color": {
                     "r": 1,
                     "g": 1,
@@ -956,10 +1216,10 @@
                 }
               ],
               "backgroundColor": {
-                "r": 0,
-                "g": 0,
-                "b": 0,
-                "a": 0
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
               },
               "effects": []
             }
@@ -975,7 +1235,7 @@
       ],
       "internal": {
         "type": "FigmaDOCUMENT",
-        "contentDigest": "93c378a0b0c13d7e57fed3eb1ec411f6",
+        "contentDigest": "2c6fea7e54da3e306e9533bc063c7f7b",
         "owner": "gatsby-source-figma"
       },
       "document___NODE": "bDTjyvk46zudfjITwwyAXFMZ"
@@ -985,7 +1245,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "505df533dd4d733a7ea9b3a0ae47b37f",
+        "contentDigest": "35d21d419d0310f592c2fb3648667099",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -997,7 +1257,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-17T12:09:53.000Z",
-      "accessTime": "2018-10-17T12:20:24.000Z",
+      "accessTime": "2018-10-18T11:09:58.000Z",
       "changeTime": "2018-10-17T12:09:53.000Z",
       "birthTime": "2018-10-17T11:11:35.000Z",
       "root": "/",
@@ -1015,11 +1275,11 @@
       "blksize": 4096,
       "ino": 67752470,
       "blocks": 0,
-      "atimeMs": 1539778824000,
+      "atimeMs": 1539860998000,
       "mtimeMs": 1539778193000,
       "ctimeMs": 1539778193000,
       "birthtimeMs": 1539774695000,
-      "atime": "2018-10-17T12:20:24.000Z",
+      "atime": "2018-10-18T11:09:58.000Z",
       "mtime": "2018-10-17T12:09:53.000Z",
       "ctime": "2018-10-17T12:09:53.000Z",
       "birthtime": "2018-10-17T11:11:35.000Z"
@@ -1029,7 +1289,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "99c6bf13572678a0c13089034038c16b",
+        "contentDigest": "80b15a3cfaec5f741da043302ff5e41e",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/figmaComponents.js\"",
@@ -1039,11 +1299,11 @@
       "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/figmaComponents.js",
       "relativePath": "figmaComponents.js",
       "extension": "js",
-      "size": 2087,
-      "prettySize": "2.09 kB",
-      "modifiedTime": "2018-10-17T12:20:17.000Z",
-      "accessTime": "2018-10-17T12:20:18.000Z",
-      "changeTime": "2018-10-17T12:20:17.000Z",
+      "size": 2503,
+      "prettySize": "2.5 kB",
+      "modifiedTime": "2018-10-18T11:09:40.000Z",
+      "accessTime": "2018-10-18T11:09:41.000Z",
+      "changeTime": "2018-10-18T11:09:40.000Z",
       "birthTime": "2018-10-17T11:11:16.000Z",
       "root": "/",
       "dir": "/Users/denissamoilov/Sites/figma-components/src",
@@ -1060,13 +1320,13 @@
       "blksize": 4096,
       "ino": 67752446,
       "blocks": 8,
-      "atimeMs": 1539778818000,
-      "mtimeMs": 1539778817000,
-      "ctimeMs": 1539778817000,
+      "atimeMs": 1539860981000,
+      "mtimeMs": 1539860980000,
+      "ctimeMs": 1539860980000,
       "birthtimeMs": 1539774676000,
-      "atime": "2018-10-17T12:20:18.000Z",
-      "mtime": "2018-10-17T12:20:17.000Z",
-      "ctime": "2018-10-17T12:20:17.000Z",
+      "atime": "2018-10-18T11:09:41.000Z",
+      "mtime": "2018-10-18T11:09:40.000Z",
+      "ctime": "2018-10-18T11:09:40.000Z",
       "birthtime": "2018-10-17T11:11:16.000Z"
     },
     "4894d083-3128-56e8-b6ac-2054822bb01e": {
