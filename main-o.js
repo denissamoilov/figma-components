@@ -141,8 +141,6 @@ async function main() {
 	for (let i=0; i < canvas.children.length; i++) {
 		const child = canvas.children[i]
 
-		console.log('child: ', child);
-
 		if (child.name.charAt(0) === '#' && child.visible !== false) {
 			const child = canvas.children[i];
 			figma.createComponent(child, images, componentMap);
@@ -157,6 +155,7 @@ async function main() {
     }
 
 	const imported = {};
+
 	for (const key in componentMap) {
 		const component = componentMap[key];
 		const name = component.name;
@@ -165,6 +164,7 @@ async function main() {
 		}
 		imported[name] = true;
 	}
+	
 	contents += "\n";
 	contents += nextSection;
 	nextSection = '';

@@ -1,11 +1,14 @@
 import React from "react"
 
 import '../index.css';
-import { MasterColor } from '../figmaComponents';
+import { MasterTile } from '../figmaComponents';
 
 
 export default () => {
     return (
-        <MasterColor />
+        <section id="promotiles">
+            <div class="tile"><MasterTile /></div>
+            <div class="tile"><MasterTile /></div>
+        </section>
     )
 }
