@@ -3,7 +3,7 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/denissamoilov/Sites/figma-components/.cache/dev-404-page.js")),
-  "component---src-pages-index-js": preferDefault(require("/Users/denissamoilov/Sites/figma-components/src/pages/index.js"))
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/denisssamoilov/Sites/figma-components/.cache/dev-404-page.js")),
+  "component---src-pages-index-js": preferDefault(require("/Users/denisssamoilov/Sites/figma-components/src/pages/index.js"))
 }
 

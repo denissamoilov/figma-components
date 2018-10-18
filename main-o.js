@@ -143,7 +143,9 @@ async function main() {
 
 		if (child.name.charAt(0) === '#' && child.visible !== false) {
 			const child = canvas.children[i];
+			// Create Component, name should begin with #
 			figma.createComponent(child, images, componentMap);
+
 			nextSection += `export class Master${child.name.replace(/\W+/g, "")} extends PureComponent {\n`;
 			nextSection += "  render() {\n";
 			nextSection += `    return <div className="master" style={{backgroundColor: "${figma.colorString(child.backgroundColor)}"}}>\n`;
