@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/denisssamoilov/Sites/figma-components/.cache/dev-404-page.js",
+      "component": "/Users/denissamoilov/Sites/figma-components/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/denisssamoilov/Sites/figma-components/.cache/dev-404-page.js",
+      "componentPath": "/Users/denissamoilov/Sites/figma-components/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b254487cb2a392a8e4a5ed32e34c7f6c",
+        "contentDigest": "a5accc6f09cbb01efb7dcb11f17aaaee",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "08ac1bd8dc47318114eff43b1c4c432f",
+        "contentDigest": "921f0ab14969d35b2bc5bc12c732f99f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2da00ab8797146a36ac7f461615497f9",
+        "contentDigest": "ca7539ae7d4d0eede300fc5e51caca39",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e887e50be51ec587740fc546ec78d5e8",
+        "contentDigest": "b10ddb8f046281494b8ab462dc07fff7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0a5b7256b413d90c57bd40c566c0e187",
+        "contentDigest": "2f87875cc27824bbb6a7bc1b8881420b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,20 +191,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b32ddcb0b959d3f844706668e12e453c",
+        "contentDigest": "be3992f32dddf00785b57c0761688baa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "2.0.3",
       "pluginOptions": {
         "plugins": [],
         "name": "src",
-        "path": "/Users/denisssamoilov/Sites/figma-components/src/"
+        "path": "/Users/denissamoilov/Sites/figma-components/src/"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -212,7 +212,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -302,13 +302,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7593e614b1ab6cdc899b6cc681eca04c",
+        "contentDigest": "fd0757950ff82abf3711fe55e4d4b246",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-figma": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby-source-figma",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby-source-figma",
       "id": "Plugin gatsby-source-figma",
       "name": "gatsby-source-figma",
       "version": "1.0.0",
@@ -322,7 +322,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby-source-figma",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby-source-figma",
       "packageJson": {
         "name": "gatsby-source-figma",
         "description": "Gatsby plugin for using Figma files as a data source.",
@@ -365,13 +365,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8ba9ad241762b849dbdb3c07b664feb0",
+        "contentDigest": "70204e9c43261929df2f24f001c29a42",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components",
+      "resolve": "/Users/denissamoilov/Sites/figma-components",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "d4e701fd85c90cba24fd47a6365c1b5a",
@@ -381,7 +381,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components",
       "packageJson": {
         "name": "gatsby-starter-hello-world",
         "description": "Gatsby hello world starter",
@@ -416,19 +416,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ca2df1ebee923dac13490ae257ce7d51",
+        "contentDigest": "4650e51af2da53eb0e2ab3587eabd974",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/denisssamoilov/Sites/figma-components/src/pages",
+        "path": "/Users/denissamoilov/Sites/figma-components/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -436,7 +436,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/denisssamoilov/Sites/figma-components/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/denissamoilov/Sites/figma-components/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -511,7 +511,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6ca9222e84bfd21f7727750e91efddb2",
+        "contentDigest": "47b1c533f353e7407f10251250625d61",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -522,12 +522,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-18T20:38:12.256Z",
+      "buildTime": "2018-10-19T13:59:39.235Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ae216eedf970387079f52b031ea1a51e",
+        "contentDigest": "0d0002af0683c59ddf8f90bf3240b88c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -538,8 +538,8 @@
       "type": "DOCUMENT",
       "children": [],
       "figmaId": "bDTjyvk46zudfjITwwyAXFMZ",
-      "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/2edeffd3-3b72-4615-b459-91692cfdd149?Expires=1540771200&Signature=XV4pUIJhZTzPtolkZVCIE-TUVg68icbdtoss6w73KLrBZ7FzOX9nXe3QpH4ny0neRP-IYVDgzvWaQ1d5B1WPWD7J8L-FXA-wwNrhMdO2BsZEkUChjDoRlQRDzyPMzkDgn1Ipl7Asp8V6hIch~TkOi0hk2vnBopZGF9Be-ru8uOmfqnl55u-n93qvZ~Y5BdkVglkVK~OFz2aKqq6T8mr1BumSCwqmFyXOhAXKB2Vur62yAm51m0EJxGWBfqHfEC~6sbRtOwCIaZAFm-c6ucfmArrhcfGpHnF7y8d~GjWrxfMFu6OFwL~UTTKtQm0SWbGdoVBSRSA96nhwjVnSWFMG2Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "lastModified": "2018-10-18T19:43:22.192235Z",
+      "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/0756c6d0-fc3a-4d72-ad14-7e6bbf2eb8e1?Expires=1540771200&Signature=RMy~qanjCuopxVzMgauB6ZrPRrkpFVrcM~ktgfu9C9h70cQrsmIQoFlQiq-RGfpxdrZ9q28g6N7hmWYSqIY9Iu5p-GITB25BtnrrKJVrV6vlnn-MVdIBdRbVcAZdXpauhfmisvpXQ2KFZ7tUWFMr-s1lUQd66poaGGRI89BTk1XtIzL144hEFjKTNTouSYsSMowRjy4CHNigOuYwKkvtD9A3Lxzet-5rQvrg9xTvK-rqd8nlghYnBO8OIx6VSBR7aCElpBQjD-78eK2aazQ~TH6j8eA6lp~YKkjVWAdB3WBMzpn88~W938OqshyB3AavRjn3T-iqI98SRNEQBtZbaA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "lastModified": "2018-10-19T13:56:46.45115Z",
       "parent": null,
       "pages": [
         {
@@ -559,10 +559,10 @@
                   "type": "RECTANGLE",
                   "blendMode": "PASS_THROUGH",
                   "absoluteBoundingBox": {
-                    "x": 50,
-                    "y": 53,
-                    "width": 390,
-                    "height": 385
+                    "x": 0,
+                    "y": 7.105427357601002e-15,
+                    "width": 483,
+                    "height": 477
                   },
                   "constraints": {
                     "vertical": "SCALE",
@@ -587,10 +587,10 @@
                   "type": "RECTANGLE",
                   "blendMode": "PASS_THROUGH",
                   "absoluteBoundingBox": {
-                    "x": 50,
-                    "y": 53,
-                    "width": 390,
-                    "height": 385
+                    "x": 0,
+                    "y": 7.105427357601002e-15,
+                    "width": 483,
+                    "height": 477
                   },
                   "constraints": {
                     "vertical": "SCALE",
@@ -615,109 +615,136 @@
                   "effects": []
                 },
                 {
-                  "id": "57:3",
-                  "name": "{p}",
-                  "type": "TEXT",
+                  "id": "84:5",
+                  "name": "Group",
+                  "type": "GROUP",
                   "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 78.92582702636719,
-                    "y": 247,
-                    "width": 332.1483154296875,
-                    "height": 50
-                  },
-                  "constraints": {
-                    "vertical": "SCALE",
-                    "horizontal": "SCALE"
-                  },
-                  "fills": [
+                  "children": [
                     {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
+                      "id": "84:3",
+                      "name": "paragraph",
+                      "type": "TEXT",
+                      "blendMode": "PASS_THROUGH",
+                      "absoluteBoundingBox": {
+                        "x": 0,
+                        "y": 287,
+                        "width": 483,
+                        "height": 99
+                      },
+                      "constraints": {
+                        "vertical": "SCALE",
+                        "horizontal": "SCALE"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "strokeAlign": "OUTSIDE",
+                      "effects": [],
+                      "characters": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+                      "style": {
+                        "fontFamily": "Roboto",
+                        "fontPostScriptName": "Roboto-Regular",
+                        "fontWeight": 400,
+                        "fontSize": 14,
+                        "textAlignHorizontal": "CENTER",
+                        "textAlignVertical": "TOP",
+                        "letterSpacing": 0,
+                        "lineHeightPx": 16.40625,
+                        "lineHeightPercent": 100
+                      },
+                      "characterStyleOverrides": [],
+                      "styleOverrideTable": {},
+                      "styles": {
+                        "text": "50:21"
+                      }
+                    },
+                    {
+                      "id": "84:2",
+                      "name": "h1",
+                      "type": "TEXT",
+                      "blendMode": "PASS_THROUGH",
+                      "absoluteBoundingBox": {
+                        "x": 0,
+                        "y": 132,
+                        "width": 483,
+                        "height": 135
+                      },
+                      "constraints": {
+                        "vertical": "SCALE",
+                        "horizontal": "SCALE"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "strokeAlign": "OUTSIDE",
+                      "effects": [],
+                      "characters": "Sollicitudin Nibh \nhdasbhjd\nhdasbhjd",
+                      "style": {
+                        "fontFamily": "Roboto",
+                        "fontPostScriptName": "Roboto-Bold",
+                        "fontWeight": 700,
+                        "fontSize": 36,
+                        "textAlignHorizontal": "CENTER",
+                        "textAlignVertical": "BOTTOM",
+                        "letterSpacing": 0,
+                        "lineHeightPx": 31.640625,
+                        "lineHeightPercent": 75
+                      },
+                      "characterStyleOverrides": [],
+                      "styleOverrideTable": {},
+                      "styles": {
+                        "text": "50:15"
                       }
                     }
                   ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Regular",
-                    "fontWeight": 400,
-                    "fontSize": 14,
-                    "textAlignHorizontal": "CENTER",
-                    "textAlignVertical": "TOP",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 16.40625,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:21"
-                  }
-                },
-                {
-                  "id": "57:4",
-                  "name": "{h1}",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
                   "absoluteBoundingBox": {
-                    "x": 78.92582702636719,
-                    "y": 194,
-                    "width": 332.1483154296875,
-                    "height": 43
+                    "x": 0,
+                    "y": 132,
+                    "width": 483,
+                    "height": 254
                   },
                   "constraints": {
-                    "vertical": "SCALE",
-                    "horizontal": "SCALE"
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
                   },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Pharetra Adipiscing",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Bold",
-                    "fontWeight": 700,
-                    "fontSize": 36,
-                    "textAlignHorizontal": "CENTER",
-                    "textAlignVertical": "TOP",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 42.1875,
-                    "lineHeightPercent": 100
+                  "clipsContent": false,
+                  "background": [],
+                  "backgroundColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0
                   },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:15"
-                  }
+                  "effects": []
                 }
               ],
               "absoluteBoundingBox": {
-                "x": 51,
-                "y": 53,
-                "width": 390,
-                "height": 385
+                "x": 0,
+                "y": 7.105427357601002e-15,
+                "width": 483,
+                "height": 477
               },
               "constraints": {
                 "vertical": "TOP",
@@ -752,675 +779,194 @@
             "a": 1
           },
           "prototypeStartNodeID": null
-        },
-        {
-          "id": "28:5",
-          "name": "Page 2",
-          "type": "CANVAS",
-          "children": [
-            {
-              "id": "50:0",
-              "name": "#TextStyles",
-              "type": "FRAME",
-              "blendMode": "PASS_THROUGH",
-              "children": [
-                {
-                  "id": "50:2",
-                  "name": "Heading 2",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 30,
-                    "y": 70,
-                    "width": 107,
-                    "height": 29
-                  },
-                  "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0,
-                        "g": 0,
-                        "b": 0,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Heading 2",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Light",
-                    "fontWeight": 300,
-                    "fontSize": 24,
-                    "textAlignHorizontal": "LEFT",
-                    "textAlignVertical": "CENTER",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 28.125,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:16"
-                  }
-                },
-                {
-                  "id": "50:3",
-                  "name": "Heading 3",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 30,
-                    "y": 109,
-                    "width": 101,
-                    "height": 26
-                  },
-                  "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0,
-                        "g": 0,
-                        "b": 0,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Heading 3",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Medium",
-                    "fontWeight": 500,
-                    "fontSize": 22,
-                    "textAlignHorizontal": "LEFT",
-                    "textAlignVertical": "CENTER",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 25.78125,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:17"
-                  }
-                },
-                {
-                  "id": "50:4",
-                  "name": "Heading 4",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 30,
-                    "y": 145,
-                    "width": 83,
-                    "height": 22
-                  },
-                  "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0,
-                        "g": 0,
-                        "b": 0,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Heading 4",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Bold",
-                    "fontWeight": 700,
-                    "fontSize": 18,
-                    "textAlignHorizontal": "LEFT",
-                    "textAlignVertical": "CENTER",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 21.09375,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:18"
-                  }
-                },
-                {
-                  "id": "50:5",
-                  "name": "Heading 5",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 30,
-                    "y": 177,
-                    "width": 82,
-                    "height": 22
-                  },
-                  "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0,
-                        "g": 0,
-                        "b": 0,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Heading 5",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Regular",
-                    "fontWeight": 400,
-                    "fontSize": 18,
-                    "textAlignHorizontal": "LEFT",
-                    "textAlignVertical": "CENTER",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 21.09375,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:19"
-                  }
-                },
-                {
-                  "id": "50:6",
-                  "name": "Heading 6",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 30,
-                    "y": 209,
-                    "width": 74,
-                    "height": 19
-                  },
-                  "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0,
-                        "g": 0,
-                        "b": 0,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Heading 6",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Bold",
-                    "fontWeight": 700,
-                    "fontSize": 16,
-                    "textAlignHorizontal": "LEFT",
-                    "textAlignVertical": "CENTER",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 18.75,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:20"
-                  }
-                },
-                {
-                  "id": "50:7",
-                  "name": "Paragraph",
-                  "type": "TEXT",
-                  "blendMode": "PASS_THROUGH",
-                  "absoluteBoundingBox": {
-                    "x": 30,
-                    "y": 238,
-                    "width": 64,
-                    "height": 17
-                  },
-                  "constraints": {
-                    "vertical": "TOP",
-                    "horizontal": "LEFT"
-                  },
-                  "fills": [
-                    {
-                      "type": "SOLID",
-                      "blendMode": "NORMAL",
-                      "color": {
-                        "r": 0,
-                        "g": 0,
-                        "b": 0,
-                        "a": 1
-                      }
-                    }
-                  ],
-                  "strokes": [],
-                  "strokeWeight": 1,
-                  "strokeAlign": "OUTSIDE",
-                  "effects": [],
-                  "characters": "Paragraph",
-                  "style": {
-                    "fontFamily": "Roboto",
-                    "fontPostScriptName": "Roboto-Regular",
-                    "fontWeight": 400,
-                    "fontSize": 14,
-                    "textAlignHorizontal": "LEFT",
-                    "textAlignVertical": "CENTER",
-                    "letterSpacing": 0,
-                    "lineHeightPx": 16.40625,
-                    "lineHeightPercent": 100
-                  },
-                  "characterStyleOverrides": [],
-                  "styleOverrideTable": {},
-                  "styles": {
-                    "text": "50:21"
-                  }
-                }
-              ],
-              "absoluteBoundingBox": {
-                "x": 0,
-                "y": 0,
-                "width": 300,
-                "height": 300
-              },
-              "constraints": {
-                "vertical": "TOP",
-                "horizontal": "LEFT"
-              },
-              "clipsContent": true,
-              "background": [
-                {
-                  "type": "SOLID",
-                  "blendMode": "NORMAL",
-                  "color": {
-                    "r": 1,
-                    "g": 1,
-                    "b": 1,
-                    "a": 1
-                  }
-                }
-              ],
-              "backgroundColor": {
-                "r": 1,
-                "g": 1,
-                "b": 1,
-                "a": 1
-              },
-              "effects": []
-            }
-          ],
-          "backgroundColor": {
-            "r": 0.8980392156862745,
-            "g": 0.8980392156862745,
-            "b": 0.8980392156862745,
-            "a": 1
-          },
-          "prototypeStartNodeID": null
         }
       ],
       "internal": {
         "type": "FigmaDOCUMENT",
-        "contentDigest": "5758c26d2d182d662aa234450ff3a608",
+        "contentDigest": "2b9139ee80b6564ffdf6417f0e857ea6",
         "owner": "gatsby-source-figma"
       },
       "document___NODE": "bDTjyvk46zudfjITwwyAXFMZ"
     },
-    "b46ab8ff-1773-54b3-a0c4-d7fab03c1f89": {
-      "id": "b46ab8ff-1773-54b3-a0c4-d7fab03c1f89",
+    "b76b23de-84d0-5ea6-aadf-58109c0a9191": {
+      "id": "b76b23de-84d0-5ea6-aadf-58109c0a9191",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c92d33eef7115fe5626debf50f275dfb",
+        "contentDigest": "8b6b092dde64a37f4745703674e1b160",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/",
       "relativePath": "",
       "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2018-10-18T16:39:46.302Z",
-      "accessTime": "2018-10-18T20:38:13.879Z",
-      "changeTime": "2018-10-18T16:39:46.302Z",
-      "birthTime": "2018-10-13T09:57:26.859Z",
+      "size": 238,
+      "prettySize": "238 B",
+      "modifiedTime": "2018-10-19T07:07:45.000Z",
+      "accessTime": "2018-10-19T13:59:42.000Z",
+      "changeTime": "2018-10-19T07:07:45.000Z",
+      "birthTime": "2018-10-15T12:11:32.000Z",
       "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components",
+      "dir": "/Users/denissamoilov/Sites/figma-components",
       "base": "src",
       "ext": "",
       "name": "src",
       "relativeDirectory": "..",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 16877,
-      "nlink": 6,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8923498,
+      "ino": 67640538,
       "blocks": 0,
-      "atimeMs": 1539895093879.2285,
-      "mtimeMs": 1539880786302.0762,
-      "ctimeMs": 1539880786302.0762,
-      "birthtimeMs": 1539424646858.8572,
-      "atime": "2018-10-18T20:38:13.879Z",
-      "mtime": "2018-10-18T16:39:46.302Z",
-      "ctime": "2018-10-18T16:39:46.302Z",
-      "birthtime": "2018-10-13T09:57:26.859Z"
+      "atimeMs": 1539957582000,
+      "mtimeMs": 1539932865000,
+      "ctimeMs": 1539932865000,
+      "birthtimeMs": 1539605492000,
+      "atime": "2018-10-19T13:59:42.000Z",
+      "mtime": "2018-10-19T07:07:45.000Z",
+      "ctime": "2018-10-19T07:07:45.000Z",
+      "birthtime": "2018-10-15T12:11:32.000Z"
     },
-    "85880289-fbbb-5b46-a02e-c15325bbbb3f": {
-      "id": "85880289-fbbb-5b46-a02e-c15325bbbb3f",
+    "190cfbe5-79e2-5c55-8661-34ec333ad3c4": {
+      "id": "190cfbe5-79e2-5c55-8661-34ec333ad3c4",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4b578321a8610ea4440db9232f10d6d4",
+        "contentDigest": "51e4d0606de9be542270b029b5494acf",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/components",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/components",
       "relativePath": "components",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2018-10-18T16:39:46.301Z",
-      "accessTime": "2018-10-18T20:38:13.881Z",
-      "changeTime": "2018-10-18T16:39:46.301Z",
-      "birthTime": "2018-10-17T19:02:26.474Z",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-10-18T12:55:44.000Z",
+      "accessTime": "2018-10-19T13:59:42.000Z",
+      "changeTime": "2018-10-18T12:55:44.000Z",
+      "birthTime": "2018-10-17T11:11:35.000Z",
       "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src",
       "base": "components",
       "ext": "",
       "name": "components",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 16877,
       "nlink": 5,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9070281,
+      "ino": 67752470,
       "blocks": 0,
-      "atimeMs": 1539895093880.6565,
-      "mtimeMs": 1539880786301.1338,
-      "ctimeMs": 1539880786301.1338,
-      "birthtimeMs": 1539802946473.8677,
-      "atime": "2018-10-18T20:38:13.881Z",
-      "mtime": "2018-10-18T16:39:46.301Z",
-      "ctime": "2018-10-18T16:39:46.301Z",
-      "birthtime": "2018-10-17T19:02:26.474Z"
+      "atimeMs": 1539957582000,
+      "mtimeMs": 1539867344000,
+      "ctimeMs": 1539867344000,
+      "birthtimeMs": 1539774695000,
+      "atime": "2018-10-19T13:59:42.000Z",
+      "mtime": "2018-10-18T12:55:44.000Z",
+      "ctime": "2018-10-18T12:55:44.000Z",
+      "birthtime": "2018-10-17T11:11:35.000Z"
     },
-    "9626a714-0bb9-5ab7-b23c-b2d45c705168": {
-      "id": "9626a714-0bb9-5ab7-b23c-b2d45c705168",
+    "639cf30e-9c79-56a8-b759-c97698eb4d9e": {
+      "id": "639cf30e-9c79-56a8-b759-c97698eb4d9e",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "37d6b6b63afd71a17261fd8b8ce72c73",
+        "contentDigest": "3d0aaaa1bf01f072da46d628f5fa4d16",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/pages",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/pages",
       "relativePath": "pages",
       "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-10-18T16:39:46.303Z",
-      "accessTime": "2018-10-18T20:38:13.881Z",
-      "changeTime": "2018-10-18T16:39:46.303Z",
-      "birthTime": "2018-10-13T09:57:26.859Z",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-10-15T12:11:32.000Z",
+      "accessTime": "2018-10-19T13:59:42.000Z",
+      "changeTime": "2018-10-15T12:11:32.000Z",
+      "birthTime": "2018-10-15T12:11:32.000Z",
       "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src",
       "base": "pages",
       "ext": "",
       "name": "pages",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 16877,
       "nlink": 3,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8923499,
+      "ino": 67640539,
       "blocks": 0,
-      "atimeMs": 1539895093880.678,
-      "mtimeMs": 1539880786302.5378,
-      "ctimeMs": 1539880786302.5378,
-      "birthtimeMs": 1539424646858.8875,
-      "atime": "2018-10-18T20:38:13.881Z",
-      "mtime": "2018-10-18T16:39:46.303Z",
-      "ctime": "2018-10-18T16:39:46.303Z",
-      "birthtime": "2018-10-13T09:57:26.859Z"
+      "atimeMs": 1539957582000,
+      "mtimeMs": 1539605492000,
+      "ctimeMs": 1539605492000,
+      "birthtimeMs": 1539605492000,
+      "atime": "2018-10-19T13:59:42.000Z",
+      "mtime": "2018-10-15T12:11:32.000Z",
+      "ctime": "2018-10-15T12:11:32.000Z",
+      "birthtime": "2018-10-15T12:11:32.000Z"
     },
-    "b0b9fb11-231e-5aec-9c46-3ca5ef43fcf8": {
-      "id": "b0b9fb11-231e-5aec-9c46-3ca5ef43fcf8",
+    "2155e8e7-b52f-5aed-b95d-8b0025df471c": {
+      "id": "2155e8e7-b52f-5aed-b95d-8b0025df471c",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "55934b2a73e1e06f7bb97899f257ee0f",
+        "contentDigest": "13801a234c7db54937b9f385caee2ba5",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/figmaComponents.js\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/figmaComponents.js",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/figmaComponents.js",
       "relativePath": "figmaComponents.js",
       "extension": "js",
-      "size": 1017,
-      "prettySize": "1.02 kB",
-      "modifiedTime": "2018-10-18T20:38:10.522Z",
-      "accessTime": "2018-10-18T20:38:13.879Z",
-      "changeTime": "2018-10-18T20:38:10.522Z",
-      "birthTime": "2018-10-18T16:39:46.302Z",
+      "size": 3053,
+      "prettySize": "3.05 kB",
+      "modifiedTime": "2018-10-19T13:58:45.000Z",
+      "accessTime": "2018-10-19T13:58:47.000Z",
+      "changeTime": "2018-10-19T13:58:45.000Z",
+      "birthTime": "2018-10-19T07:07:45.000Z",
       "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src",
       "base": "figmaComponents.js",
       "ext": ".js",
       "name": "figmaComponents",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9078324,
+      "ino": 67816853,
       "blocks": 8,
-      "atimeMs": 1539895093879.4067,
-      "mtimeMs": 1539895090521.5808,
-      "ctimeMs": 1539895090521.5808,
-      "birthtimeMs": 1539880786301.696,
-      "atime": "2018-10-18T20:38:13.879Z",
-      "mtime": "2018-10-18T20:38:10.522Z",
-      "ctime": "2018-10-18T20:38:10.522Z",
-      "birthtime": "2018-10-18T16:39:46.302Z"
+      "atimeMs": 1539957527000,
+      "mtimeMs": 1539957525000,
+      "ctimeMs": 1539957525000,
+      "birthtimeMs": 1539932865000,
+      "atime": "2018-10-19T13:58:47.000Z",
+      "mtime": "2018-10-19T13:58:45.000Z",
+      "ctime": "2018-10-19T13:58:45.000Z",
+      "birthtime": "2018-10-19T07:07:45.000Z"
     },
-    "89262f70-3bfd-5911-9dae-9888fc4ea217": {
-      "id": "89262f70-3bfd-5911-9dae-9888fc4ea217",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "611aa2b03bdcb4560bb431c1b5535b1a",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/components/CPromotile.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/components/CPromotile.js",
-      "relativePath": "components/CPromotile.js",
-      "extension": "js",
-      "size": 305,
-      "prettySize": "305 B",
-      "modifiedTime": "2018-10-17T19:02:26.474Z",
-      "accessTime": "2018-10-18T18:55:50.849Z",
-      "changeTime": "2018-10-17T19:02:26.474Z",
-      "birthTime": "2018-10-17T19:02:26.474Z",
-      "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src/components",
-      "base": "CPromotile.js",
-      "ext": ".js",
-      "name": "CPromotile",
-      "relativeDirectory": "components",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9070283,
-      "blocks": 8,
-      "atimeMs": 1539888950848.6243,
-      "mtimeMs": 1539802946474.2205,
-      "ctimeMs": 1539802946474.2205,
-      "birthtimeMs": 1539802946474.117,
-      "atime": "2018-10-18T18:55:50.849Z",
-      "mtime": "2018-10-17T19:02:26.474Z",
-      "ctime": "2018-10-17T19:02:26.474Z",
-      "birthtime": "2018-10-17T19:02:26.474Z"
-    },
-    "87bd4b01-cfbc-5c25-95b4-46892093a3c2": {
-      "id": "87bd4b01-cfbc-5c25-95b4-46892093a3c2",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e61eb1416d542d354815a9dcc1e405c0",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/components/CTile.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/components/CTile.js",
-      "relativePath": "components/CTile.js",
-      "extension": "js",
-      "size": 319,
-      "prettySize": "319 B",
-      "modifiedTime": "2018-10-18T16:39:46.301Z",
-      "accessTime": "2018-10-18T18:52:56.454Z",
-      "changeTime": "2018-10-18T16:39:46.301Z",
-      "birthTime": "2018-10-18T16:39:46.301Z",
-      "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src/components",
-      "base": "CTile.js",
-      "ext": ".js",
-      "name": "CTile",
-      "relativeDirectory": "components",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9078323,
-      "blocks": 8,
-      "atimeMs": 1539888776453.7517,
-      "mtimeMs": 1539880786301.367,
-      "ctimeMs": 1539880786301.367,
-      "birthtimeMs": 1539880786301.1267,
-      "atime": "2018-10-18T18:52:56.454Z",
-      "mtime": "2018-10-18T16:39:46.301Z",
-      "ctime": "2018-10-18T16:39:46.301Z",
-      "birthtime": "2018-10-18T16:39:46.301Z"
-    },
-    "e0cacb9c-4d9a-523e-9bd0-6fa806c47c2a": {
-      "id": "e0cacb9c-4d9a-523e-9bd0-6fa806c47c2a",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "61c96643e82be7c52cef3f13f4af4272",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/pages/index.js",
-      "relativePath": "pages/index.js",
-      "extension": "js",
-      "size": 299,
-      "prettySize": "299 B",
-      "modifiedTime": "2018-10-18T16:39:46.303Z",
-      "accessTime": "2018-10-18T18:55:35.298Z",
-      "changeTime": "2018-10-18T16:39:46.303Z",
-      "birthTime": "2018-10-18T16:39:46.303Z",
-      "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src/pages",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "pages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9078326,
-      "blocks": 8,
-      "atimeMs": 1539888935298.097,
-      "mtimeMs": 1539880786302.7139,
-      "ctimeMs": 1539880786302.7139,
-      "birthtimeMs": 1539880786302.532,
-      "atime": "2018-10-18T18:55:35.298Z",
-      "mtime": "2018-10-18T16:39:46.303Z",
-      "ctime": "2018-10-18T16:39:46.303Z",
-      "birthtime": "2018-10-18T16:39:46.303Z"
-    },
-    "80b47c74-a93c-59b8-a9ba-406ac6e13dbb": {
-      "id": "80b47c74-a93c-59b8-a9ba-406ac6e13dbb",
+    "9ad8890d-6a2c-568a-b53c-e80a9ba0c2ec": {
+      "id": "9ad8890d-6a2c-568a-b53c-e80a9ba0c2ec",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1431,41 +977,41 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/index.css",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/index.css",
       "relativePath": "index.css",
       "extension": "css",
       "size": 923,
       "prettySize": "923 B",
-      "modifiedTime": "2018-10-18T16:39:46.302Z",
-      "accessTime": "2018-10-18T16:39:46.346Z",
-      "changeTime": "2018-10-18T16:39:46.302Z",
-      "birthTime": "2018-10-18T16:39:46.302Z",
+      "modifiedTime": "2018-10-18T13:00:30.000Z",
+      "accessTime": "2018-10-18T14:19:24.000Z",
+      "changeTime": "2018-10-18T13:00:30.000Z",
+      "birthTime": "2018-10-16T13:18:06.000Z",
       "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src",
       "base": "index.css",
       "ext": ".css",
       "name": "index",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9078325,
+      "ino": 67752857,
       "blocks": 8,
-      "atimeMs": 1539880786345.8882,
-      "mtimeMs": 1539880786302.361,
-      "ctimeMs": 1539880786302.361,
-      "birthtimeMs": 1539880786302.0706,
-      "atime": "2018-10-18T16:39:46.346Z",
-      "mtime": "2018-10-18T16:39:46.302Z",
-      "ctime": "2018-10-18T16:39:46.302Z",
-      "birthtime": "2018-10-18T16:39:46.302Z"
+      "atimeMs": 1539872364000,
+      "mtimeMs": 1539867630000,
+      "ctimeMs": 1539867630000,
+      "birthtimeMs": 1539695886000,
+      "atime": "2018-10-18T14:19:24.000Z",
+      "mtime": "2018-10-18T13:00:30.000Z",
+      "ctime": "2018-10-18T13:00:30.000Z",
+      "birthtime": "2018-10-16T13:18:06.000Z"
     },
-    "6ad67f67-efb2-5a34-aee6-ccd14ac0b871": {
-      "id": "6ad67f67-efb2-5a34-aee6-ccd14ac0b871",
+    "4894d083-3128-56e8-b6ac-2054822bb01e": {
+      "id": "4894d083-3128-56e8-b6ac-2054822bb01e",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1476,55 +1022,190 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "src",
-      "absolutePath": "/Users/denisssamoilov/Sites/figma-components/src/components/CColor.js",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/components/CColor.js",
       "relativePath": "components/CColor.js",
       "extension": "js",
       "size": 301,
       "prettySize": "301 B",
-      "modifiedTime": "2018-10-17T19:02:26.474Z",
-      "accessTime": "2018-10-17T19:08:40.150Z",
-      "changeTime": "2018-10-17T19:02:26.474Z",
-      "birthTime": "2018-10-17T19:02:26.474Z",
+      "modifiedTime": "2018-10-17T11:11:41.000Z",
+      "accessTime": "2018-10-18T13:45:23.000Z",
+      "changeTime": "2018-10-17T11:11:41.000Z",
+      "birthTime": "2018-10-17T11:11:41.000Z",
       "root": "/",
-      "dir": "/Users/denisssamoilov/Sites/figma-components/src/components",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src/components",
       "base": "CColor.js",
       "ext": ".js",
       "name": "CColor",
       "relativeDirectory": "components",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9070282,
+      "ino": 67752546,
       "blocks": 8,
-      "atimeMs": 1539803320149.5774,
-      "mtimeMs": 1539802946474.0574,
-      "ctimeMs": 1539802946474.0574,
-      "birthtimeMs": 1539802946473.9395,
-      "atime": "2018-10-17T19:08:40.150Z",
-      "mtime": "2018-10-17T19:02:26.474Z",
-      "ctime": "2018-10-17T19:02:26.474Z",
-      "birthtime": "2018-10-17T19:02:26.474Z"
+      "atimeMs": 1539870323000,
+      "mtimeMs": 1539774701000,
+      "ctimeMs": 1539774701000,
+      "birthtimeMs": 1539774701000,
+      "atime": "2018-10-18T13:45:23.000Z",
+      "mtime": "2018-10-17T11:11:41.000Z",
+      "ctime": "2018-10-17T11:11:41.000Z",
+      "birthtime": "2018-10-17T11:11:41.000Z"
+    },
+    "d9954f76-baf1-58e7-97a7-92d92d789347": {
+      "id": "d9954f76-baf1-58e7-97a7-92d92d789347",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "611aa2b03bdcb4560bb431c1b5535b1a",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/CPromotile.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/components/CPromotile.js",
+      "relativePath": "components/CPromotile.js",
+      "extension": "js",
+      "size": 305,
+      "prettySize": "305 B",
+      "modifiedTime": "2018-10-17T12:09:53.000Z",
+      "accessTime": "2018-10-18T13:41:44.000Z",
+      "changeTime": "2018-10-17T12:09:53.000Z",
+      "birthTime": "2018-10-17T12:09:53.000Z",
+      "root": "/",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src/components",
+      "base": "CPromotile.js",
+      "ext": ".js",
+      "name": "CPromotile",
+      "relativeDirectory": "components",
+      "dev": 16777224,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 67755073,
+      "blocks": 8,
+      "atimeMs": 1539870104000,
+      "mtimeMs": 1539778193000,
+      "ctimeMs": 1539778193000,
+      "birthtimeMs": 1539778193000,
+      "atime": "2018-10-18T13:41:44.000Z",
+      "mtime": "2018-10-17T12:09:53.000Z",
+      "ctime": "2018-10-17T12:09:53.000Z",
+      "birthtime": "2018-10-17T12:09:53.000Z"
+    },
+    "cca4d5f5-684b-5a0f-a88a-b838f9400b9d": {
+      "id": "cca4d5f5-684b-5a0f-a88a-b838f9400b9d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f775eb9a8ca5c0e95df19a2259daacaf",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 307,
+      "prettySize": "307 B",
+      "modifiedTime": "2018-10-19T12:43:02.000Z",
+      "accessTime": "2018-10-19T12:43:02.000Z",
+      "changeTime": "2018-10-19T12:43:02.000Z",
+      "birthTime": "2018-10-15T12:11:32.000Z",
+      "root": "/",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 16777224,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 67640540,
+      "blocks": 8,
+      "atimeMs": 1539952982000,
+      "mtimeMs": 1539952982000,
+      "ctimeMs": 1539952982000,
+      "birthtimeMs": 1539605492000,
+      "atime": "2018-10-19T12:43:02.000Z",
+      "mtime": "2018-10-19T12:43:02.000Z",
+      "ctime": "2018-10-19T12:43:02.000Z",
+      "birthtime": "2018-10-15T12:11:32.000Z"
+    },
+    "15fb85d5-ef96-510d-808b-b9b1de57c959": {
+      "id": "15fb85d5-ef96-510d-808b-b9b1de57c959",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e61eb1416d542d354815a9dcc1e405c0",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/CTile.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/denissamoilov/Sites/figma-components/src/components/CTile.js",
+      "relativePath": "components/CTile.js",
+      "extension": "js",
+      "size": 319,
+      "prettySize": "319 B",
+      "modifiedTime": "2018-10-18T12:55:44.000Z",
+      "accessTime": "2018-10-18T14:19:24.000Z",
+      "changeTime": "2018-10-18T12:55:44.000Z",
+      "birthTime": "2018-10-18T12:55:44.000Z",
+      "root": "/",
+      "dir": "/Users/denissamoilov/Sites/figma-components/src/components",
+      "base": "CTile.js",
+      "ext": ".js",
+      "name": "CTile",
+      "relativeDirectory": "components",
+      "dev": 16777224,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 67793178,
+      "blocks": 8,
+      "atimeMs": 1539872364000,
+      "mtimeMs": 1539867344000,
+      "ctimeMs": 1539867344000,
+      "birthtimeMs": 1539867344000,
+      "atime": "2018-10-18T14:19:24.000Z",
+      "mtime": "2018-10-18T12:55:44.000Z",
+      "ctime": "2018-10-18T12:55:44.000Z",
+      "birthtime": "2018-10-18T12:55:44.000Z"
     },
     "SitePage /": {
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/denisssamoilov/Sites/figma-components/src/pages/index.js",
+      "component": "/Users/denissamoilov/Sites/figma-components/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/denisssamoilov/Sites/figma-components/src/pages/index.js",
+      "componentPath": "/Users/denissamoilov/Sites/figma-components/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc76e67e1bc9495e82d67c04e1fc6e29",
+        "contentDigest": "3d16a494c475f1b3fb10bdc6c11f565c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1546,13 +1227,13 @@
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/denisssamoilov/Sites/figma-components/.cache/dev-404-page.js": {
+    "/Users/denissamoilov/Sites/figma-components/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/denisssamoilov/Sites/figma-components/.cache/dev-404-page.js"
+      "componentPath": "/Users/denissamoilov/Sites/figma-components/.cache/dev-404-page.js"
     },
-    "/Users/denisssamoilov/Sites/figma-components/src/pages/index.js": {
+    "/Users/denissamoilov/Sites/figma-components/src/pages/index.js": {
       "query": "",
-      "componentPath": "/Users/denisssamoilov/Sites/figma-components/src/pages/index.js"
+      "componentPath": "/Users/denissamoilov/Sites/figma-components/src/pages/index.js"
     }
   },
   "staticQueryComponents": {}

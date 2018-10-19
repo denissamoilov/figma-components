@@ -17,11 +17,13 @@ export function getComponentFromId(id) {
 class CTile57D5 extends PureComponent {
   render() {
     return (
-<article class="CTile">
-	<div className="class-57:1" style={{"backgroundImage":"url(https://s3-us-west-2.amazonaws.com/figma-alpha/img/2279/1083/fa0ba2465f67dddeac2e8135501835b0)","backgroundSize":"cover"}}></div>
-	<div className="class-57:2" style={{"backgroundColor":"rgba(0, 0, 0, 1)","opacity":0.699999988079071}}></div>
-	<div className="class-50:21">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.</div>
-	<div className="class-50:15">Pharetra Adipiscing</div>
+<article className="CTile">
+	<div className="class-57:1" style={{"backgroundImage":"url(https://s3-us-west-2.amazonaws.com/figma-alpha/img/2279/1083/fa0ba2465f67dddeac2e8135501835b0)","backgroundSize":"cover"}}>
+	</div>
+	<div className="class-57:2" style={{"backgroundColor":"rgba(0, 0, 0, 1)","opacity":0.699999988079071}}>
+	</div>
+	<div className="class-84:5" style={{}}>
+	</div>
 </article>
     );
   }

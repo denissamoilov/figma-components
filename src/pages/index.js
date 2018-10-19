@@ -7,8 +7,8 @@ import { MasterTile } from '../figmaComponents';
 export default () => {
     return (
         <section id="promotiles">
-            <div class="tile"><MasterTile /></div>
-            <div class="tile"><MasterTile /></div>
+            <div className="tile"><MasterTile /></div>
+            <div className="tile"><MasterTile /></div>
         </section>
     )
 }
